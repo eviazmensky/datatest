@@ -1,0 +1,16 @@
+body{
+    width: 750px;
+    margin: 0 auto;
+    border-left: 1px solid #F78181;
+    border-right: 1px solid #F78181;
+    padding: 45px 45px;
+    box-shadow:0px 0px 10px 8px #F78181 inset;
+    border-radius: 15px;
+}
+#content{
+    border: 1px solid #ccc;
+    height: 25px;
+}
+#contactPhone, button{
+    float: right;
+}
